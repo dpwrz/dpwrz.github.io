@@ -1,0 +1,25 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    color:aqua;
+    position: fixed;
+    z-index: 10;
+}
+
+article {
+    font-size: 18px;
+    text-align: center;
+    display: block;
+    width: 480px;
+    height: 480px;
+    color: white;
+    border: 2px transparent white;
+    border-radius: 10px;
+    float: center;
+    margin: 20px;
+    background-image: url(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF0MGJhcnVzZnY3andwbDNtNzB3OWhwbGJ5YTZtNWpqZWp2cjFkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHFOYjaLn7wkKjWgzH/giphy.webp);
+    position: relative;
+    top: 70px;
+}
